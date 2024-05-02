@@ -1,6 +1,6 @@
 {
-    "name": "Bullion Token",
-    "description": "Mine Token.",
+    "name": "Farm Token",
+    "description": "A farmer's best Token.",
     "image": "https://raw.githubusercontent.com/CodeRunne/token-assets/main/logo.webp",
-    "symbol": "BULL"
+    "symbol": "FARM"
 }
