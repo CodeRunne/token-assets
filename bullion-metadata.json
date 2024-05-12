@@ -1,6 +1,7 @@
 {
-    "name": "Farm Token",
-    "description": "A farmer's best Token.",
-    "image": "https://raw.githubusercontent.com/CodeRunne/token-assets/main/logo.webp",
-    "symbol": "FARM"
+    "name": "Redeem Token",
+    "description": "A redeemable token on TON.",
+    "image": "https://arweave.net/wGChHSDTXTP9oAtTaYh9s8j1MRE0IPmYtH5greqWwZ4",
+    "symbol": "RDM",
+    "decimals": 9 
 }
